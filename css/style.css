@@ -54,13 +54,13 @@ body {
     font-size: 20pt;
 }
 
-#description-bio {
+#description-bio {x
     font-size: 12pt;
 }
 
 #description-image {
     padding-top: 10px;
-    height: 180px;
+    height: 185px;
     width: 180px;
 }
 
